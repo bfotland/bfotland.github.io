@@ -2,6 +2,6 @@ import './style.css'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <p>bfotland.github.io</p>
+    <h1>bfotland.github.io</h1>
   </div>
 `
